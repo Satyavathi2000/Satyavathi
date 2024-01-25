@@ -1,3 +1,5 @@
+package Strings;
+
 import org.junit.Test;
 import Strings.Anagram;
 import static org.junit.Assert.assertTrue;

@@ -1,3 +1,5 @@
+package Strings;
+
 import java.lang.String;
 import org.junit.Test;
 import static org.junit.Assert.assertEquals;

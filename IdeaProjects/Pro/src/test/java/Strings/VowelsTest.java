@@ -1,3 +1,5 @@
+package Strings;
+
 import org.junit.Test;
 import Strings.Vowels;
 import static junit.framework.Assert.assertEquals;
