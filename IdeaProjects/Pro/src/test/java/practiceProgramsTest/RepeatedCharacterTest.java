@@ -1,8 +1,8 @@
-package practicePrograms;
+package practiceProgramsTest;
 
 import java.util.Map;
 
-public class RepeatedCharactersTest {
+class RepeatedCharactersTest {
 
     public static void main(String[] args) {
         testRepeatedCharacters("hello");
