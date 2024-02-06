@@ -1,4 +1,4 @@
-package practiceProgramsTest;
+package practicePrograms;
 
 import java.util.Scanner;
     public class Palindrome {

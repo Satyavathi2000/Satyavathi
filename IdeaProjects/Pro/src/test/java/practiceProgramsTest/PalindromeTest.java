@@ -1,6 +1,7 @@
 package practiceProgramsTest;
 
 import org.junit.Test;
+import practicePrograms.Palindrome;
 
 import static org.junit.Assert.assertTrue;
 import static org.junit.Assert.assertFalse;

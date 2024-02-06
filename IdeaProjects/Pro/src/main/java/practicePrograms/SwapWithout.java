@@ -1,4 +1,4 @@
-package practiceProgramsTest;
+package practicePrograms;
 
 public class SwapWithout {
 
