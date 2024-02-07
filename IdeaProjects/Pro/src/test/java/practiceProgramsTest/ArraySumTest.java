@@ -4,7 +4,7 @@ import java.util.List;
 import java.util.function.Predicate;
 import java.util.stream.Collectors;
 
-public class StringFilter {
+public class ArraySumTest{
 
     public static List<String> filterStringsStartingWithA(List<String> inputList) {
         // Lambda expression as a predicate to filter strings starting with "A"
