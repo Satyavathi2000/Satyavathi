@@ -1,4 +1,4 @@
-package exceptionTest;
+package exception;
 
 public class StringToIntegerConverter {
 
